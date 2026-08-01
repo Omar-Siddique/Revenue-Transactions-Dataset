@@ -78,7 +78,7 @@ Recommendations
 ```
 
 ___
-## 📈 Project Visualizations
+# 📈 Project Visualizations
 
 ## 1️⃣ Net Sales Distribution
 
