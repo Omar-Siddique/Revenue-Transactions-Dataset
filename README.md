@@ -2,7 +2,8 @@
 
 Data-Driven Retail Revenue Insights using Python, Pandas, NumPy, Matplotlib, Seaborn & Plotly
 
-(https://chatgpt.com/s/m_6a6db597d55c8191b794f0aff08413e0)
+<img width="1608" height="641" alt="image" src="https://github.com/user-attachments/assets/20819673-9510-477f-a71b-a06689ffcdbd" />
+
 
 🏷️ Badges
 PYTHON | PANDAS | NUMPY | DATA ANALYTICS | MATPLOTLIB | SEABORN | PLOTLY | EDA | FEATURE ENGINEERING | PROJECT COMPLETED
