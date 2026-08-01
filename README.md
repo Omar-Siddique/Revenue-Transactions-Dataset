@@ -1,34 +1,39 @@
-📊 Revenue Transaction Analysis using Python
+📊 Revenue Transaction Analysis Using Python
 
-📌 Project Overview
+Data-Driven Retail Revenue Insights using Python, Pandas, NumPy, Matplotlib, Seaborn & Plotly
 
-This project presents an end-to-end Revenue Transaction Analysis using Python to extract actionable business insights from retail transaction data. The analysis covers data cleaning, preprocessing, feature engineering, statistical analysis, exploratory data analysis (EDA), and visualization to understand sales performance, customer purchasing behavior, payment preferences, and revenue trends.
+(https://chatgpt.com/s/m_6a6db597d55c8191b794f0aff08413e0)
 
-The project demonstrates a complete data analytics workflow that transforms raw transactional data into meaningful business intelligence for data-driven decision-making.
+🏷️ Badges
+PYTHON | PANDAS | NUMPY | DATA ANALYTICS | MATPLOTLIB | SEABORN | PLOTLY | EDA | FEATURE ENGINEERING | PROJECT COMPLETED
 
-🎯 Project Objectives
-Analyze revenue and sales performance using Python.
-Clean and preprocess raw transaction data.
-Perform Exploratory Data Analysis (EDA).
-Engineer new analytical features.
-Generate descriptive statistical insights.
-Visualize sales trends and customer behavior.
-Provide strategic business recommendations.
+📌 Executive Summary
+
+This project analyzes a real-world Revenue Transaction Dataset using Python to uncover valuable business insights from retail sales data. The workflow includes data cleaning, feature engineering, descriptive statistics, exploratory data analysis (EDA), and business visualization. The analysis helps understand revenue trends, customer purchasing behavior, outlet performance, payment preferences, and monthly sales patterns to support data-driven business decisions.
+
+🎯 Business Objectives
+Analyze retail revenue transactions using Python.
+Perform data cleaning and preprocessing.
+Engineer business-focused analytical features.
+Conduct descriptive statistical analysis.
+Perform Univariate, Bivariate, and Multivariate Analysis.
+Identify customer purchasing trends.
+Generate strategic business recommendations.
 
 📂 Dataset Information
-| Attribute               | Details                          |
-| ----------------------- | -------------------------------- |
-| **Dataset**             | Revenue Transaction Dataset      |
-| **Domain**              | Retail Sales & Revenue Analytics |
-| **Industry**            | Food & Beverage (F&B)            |
-| **Location**            | Surabaya, East Java, Indonesia   |
-| **Time Period**         | January 2025 – September 2025    |
-| **Transactions**        | 53,820                           |
-| **Original Features**   | 11                               |
-| **Engineered Features** | 5                                |
-| **Total Features**      | 16                               |
+| Attribute         | Details                       |
+| ----------------- | ----------------------------- |
+| Dataset           | Revenue Transaction Dataset   |
+| Source            | Mendeley Data                 |
+| Domain            | Retail Revenue Analytics      |
+| Industry          | Food & Beverage (F&B)         |
+| Location          | Surabaya, Indonesia           |
+| Period            | January 2025 – September 2025 |
+| Records           | 53,820                        |
+| Original Features | 11                            |
+| Final Features    | 16                            |
 
-🛠️ Technologies Used
+🛠️ Tools & Technologies
 Python
 Google Colab
 Pandas
@@ -40,82 +45,74 @@ Plotly Graph Objects
 
 ⚙️ Project Workflow
 Revenue Transaction Dataset
-          │
-          ▼
+        │
+        ▼
 Data Loading
-          │
-          ▼
-Data Cleaning & Validation
-          │
-          ▼
+        │
+        ▼
+Data Inspection
+        │
+        ▼
+Data Cleaning
+        │
+        ▼
 Feature Engineering
-          │
-          ▼
+        │
+        ▼
 Statistical Analysis
-          │
-          ▼
+        │
+        ▼
 Exploratory Data Analysis
-          │
-          ▼
+        │
+        ▼
 Data Visualization
-          │
-          ▼
+        │
+        ▼
 Business Insights
-          │
-          ▼
+        │
+        ▼
 Strategic Recommendations
 
-🔧 Feature Engineering
+📈 Project Visualizations
+1️⃣ Net Sales Distribution
+<img width="711" height="467" alt="image" src="https://github.com/user-attachments/assets/5dd88762-43dc-4c1c-b760-0d9afc3d3ba6" />
 
-The following features were created to enhance business analysis:
+2️⃣ Tax Distribution
+<img width="708" height="456" alt="image" src="https://github.com/user-attachments/assets/296edb2a-149f-44db-8c94-9ef5c9761687" />
 
-📅 Month
-📅 Year
-💰 Sales Category
-🏷️ Average Item Price
-👥 Customer Type
-📈 Exploratory Data Analysis
-Univariate Analysis
-Net Sales Distribution
-Tax Distribution
-Total Amount Distribution
-Total Item Distribution
-Average Item Price Distribution
-Bivariate Analysis
-Average Net Sales by Outlet
-Total Items vs Net Sales
-Multivariate Analysis
-Correlation Heatmap
-Revenue by Outlet and Payment Method
-Time Series Analysis
-Monthly Net Sales Trend
-📊 Key Insights
-Most transactions belong to the medium-value sales category.
-Single-item purchases dominate customer transactions.
-June recorded the highest monthly revenue.
-SHOP001, SHOP002, and SHOP003 exhibit balanced sales performance.
-GoFood generates the highest average transaction value among payment methods.
-Net Sales, Tax, and Total Amount are strongly correlated.
-Premium-value transactions significantly increase total revenue.
-💼 Business Recommendations
-Increase premium product promotions.
-Encourage digital payment adoption.
+3️⃣ Total Amount Distribution
+<img width="708" height="461" alt="image" src="https://github.com/user-attachments/assets/3d8545a9-d30c-4b19-a0c7-cda15199e90d" />
+
+4️⃣ Total Item Distribution
+<img width="708" height="455" alt="image" src="https://github.com/user-attachments/assets/0ad1afbf-128b-40a6-a1a7-10586d23f150" />
+
+5️⃣ Average Net Sales by Outlet
+<img width="701" height="462" alt="image" src="https://github.com/user-attachments/assets/f47f0373-81e7-4cd2-bac4-8fb2132f1e7b" />
+
+6️⃣ Monthly Net Sales Trend
+<img width="842" height="492" alt="image" src="https://github.com/user-attachments/assets/037fb9f8-a5e1-4e6c-a760-bb7c3b6ba96c" />
+
+7️⃣ Revenue by Outlet & Payment Method
+<img width="866" height="537" alt="image" src="https://github.com/user-attachments/assets/6b61c1e0-a7d8-4145-b0a5-2cf3fe509e54" />
+
+💡 Key Findings
+Medium-value transactions contribute the largest share of revenue.
+Most customers purchase one item per transaction.
+June recorded the highest monthly net sales.
+Sales performance is consistent across all retail outlets.
+GoFood generated the highest average transaction value.
+Net Sales, Tax, and Total Amount exhibit strong positive correlations.
+Digital payment methods contribute higher average revenue than cash.
+
+🚀 Business Recommendations
+Promote premium products and bundle offers.
+Increase digital payment adoption through rewards.
 Improve customer loyalty programs.
-Introduce product bundle offers.
-Plan marketing campaigns using seasonal sales trends.
-Continuously monitor outlet-wise sales performance.
-📸 Project Visualizations
+Plan inventory based on monthly sales trends.
+Encourage multi-item purchases.
+Monitor outlet-wise performance regularly.
 
-This project includes professional visualizations such as:
-
-Distribution Histograms
-Boxplots
-Line Charts
-Scatter Plots
-Correlation Heatmaps
-Grouped Bar Charts
-
-📁 Repository Structure
+📂 Repository Structure
 Revenue-Transaction-Analysis/
 │
 ├── Dataset/
@@ -129,22 +126,43 @@ Revenue-Transaction-Analysis/
 │
 ├── Images/
 │   ├── NetSales_Distribution.png
+│   ├── Tax_Distribution.png
+│   ├── TotalAmount_Distribution.png
+│   ├── TotalItem_Distribution.png
+│   ├── Outlet_Sales.png
 │   ├── Monthly_Sales_Trend.png
+│   ├── Scatter_TotalItem_NetSales.png
 │   ├── Correlation_Heatmap.png
-│   └── Revenue_by_Outlet.png
+│   └── Revenue_Payment_Method.png
 │
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── LICENSE
+
+📈 Future Enhancements
+Develop an interactive Power BI dashboard.
+Deploy the project using Streamlit.
+Build machine learning models for revenue forecasting.
+Create automated KPI dashboards.
+Integrate real-time retail transaction data.
 
 👨‍💻 Author
-
 Omar Abubakar Siddique
 
-Data Analytics | Python | SQL | Power BI | Excel
+Aspiring Data Analyst
 
-🔗 GitHub: https://github.com/Omar-Siddique
+Skills
+Python
+SQL
+Excel
+Power BI
+Data Analytics
 
-🔗 LinkedIn: https://linkedin.com/in/siddiqueomar
+GitHub: https://github.com/Omar-Siddique
 
-⭐ If you found this project useful, consider giving the repository a star!
+LinkedIn: https://linkedin.com/in/siddiqueomar
+
+⭐ If you found this project useful, consider giving it a Star!
+
+
 
