@@ -1,4 +1,5 @@
 📊 Revenue Transaction Analysis using Python
+
 📌 Project Overview
 
 This project presents an end-to-end Revenue Transaction Analysis using Python to extract actionable business insights from retail transaction data. The analysis covers data cleaning, preprocessing, feature engineering, statistical analysis, exploratory data analysis (EDA), and visualization to understand sales performance, customer purchasing behavior, payment preferences, and revenue trends.
