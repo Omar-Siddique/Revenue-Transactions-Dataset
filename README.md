@@ -2,8 +2,7 @@
 
 <img width="1608" height="641" alt="image" src="https://github.com/user-attachments/assets/20819673-9510-477f-a71b-a06689ffcdbd" />
 
-🏷️ Badges
-PYTHON | PANDAS | NUMPY | DATA ANALYTICS | MATPLOTLIB | SEABORN | PLOTLY | EDA | FEATURE ENGINEERING | PROJECT COMPLETED
+___
 
 📌 Executive Summary
 
