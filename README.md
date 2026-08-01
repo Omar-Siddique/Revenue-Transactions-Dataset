@@ -33,16 +33,21 @@ Generate strategic business recommendations.
 
 
 🛠️ Tools & Technologies
-*Python
-*Google Colab
-*Pandas
-*NumPy
-*Matplotlib
-*Seaborn
-*Plotly Express
-*Plotly Graph Objects
+
+🐍 Python
+
+🐼 Pandas
+
+🔢 NumPy
+
+📊 Matplotlib
+
+📈 Seaborn
+
+⚡ Plotly
 
 ⚙️ Project Workflow
+```text
 Revenue Transaction Dataset
         │
         ▼
@@ -61,18 +66,21 @@ Feature Engineering
 Statistical Analysis
         │
         ▼
-Exploratory Data Analysis
+EDA
         │
         ▼
-Data Visualization
+Visualization
         │
         ▼
 Business Insights
         │
         ▼
-Strategic Recommendations
+Recommendations
+```
+
 
 📈 Project Visualizations
+
 1️⃣ Net Sales Distribution
 
 <img width="711" height="467" alt="image" src="https://github.com/user-attachments/assets/5dd88762-43dc-4c1c-b760-0d9afc3d3ba6" />
