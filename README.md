@@ -31,15 +31,16 @@ Generate strategic business recommendations.
 | Original Features | 11                            |
 | Final Features    | 16                            |
 
+
 🛠️ Tools & Technologies
-Python
-Google Colab
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Plotly Express
-Plotly Graph Objects
+*Python
+*Google Colab
+*Pandas
+*NumPy
+*Matplotlib
+*Seaborn
+*Plotly Express
+*Plotly Graph Objects
 
 ⚙️ Project Workflow
 Revenue Transaction Dataset
